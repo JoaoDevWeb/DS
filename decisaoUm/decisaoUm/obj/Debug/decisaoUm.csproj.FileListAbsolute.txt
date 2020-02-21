@@ -1,0 +1,5 @@
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoUm\decisaoUm\bin\Debug\decisaoUm.exe.config
+C:\Users\etecja\Documents\Visual Studio 2012\Projects\decisaoUm\decisaoUm\bin\Debug\decisaoUm.exe
+C:\Users\etecja\Documents\Visual Studio 2012\Projects\decisaoUm\decisaoUm\bin\Debug\decisaoUm.pdb
+C:\Users\etecja\Documents\Visual Studio 2012\Projects\decisaoUm\decisaoUm\obj\Debug\decisaoUm.exe
+C:\Users\etecja\Documents\Visual Studio 2012\Projects\decisaoUm\decisaoUm\obj\Debug\decisaoUm.pdb
